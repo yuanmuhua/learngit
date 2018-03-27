@@ -1,2 +1,2 @@
 line1
-maste
+master
